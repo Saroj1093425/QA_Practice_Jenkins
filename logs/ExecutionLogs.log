@@ -1,0 +1,10 @@
+09.07.2024 11:10:01,923 INFO  LoginPage:37 - User has entered the Username.
+09.07.2024 11:10:01,989 INFO  LoginPage:40 - User has entered the Password.
+09.07.2024 11:10:02,038 INFO  LoginPage:43 - User has clicked on Submit button
+09.07.2024 11:10:03,736 INFO  HomePage:52 - User has clicked on Profile Picture.
+09.07.2024 11:10:04,827 INFO  HomePage:54 - User has clicke on Logout Button.
+22.07.2024 10:32:48,322 INFO  LoginPage:37 - User has entered the Username.
+22.07.2024 10:32:48,400 INFO  LoginPage:40 - User has entered the Password.
+22.07.2024 10:32:49,664 INFO  LoginPage:43 - User has clicked on Submit button
+22.07.2024 10:32:50,090 INFO  HomePage:52 - User has clicked on Profile Picture.
+22.07.2024 10:32:51,369 INFO  HomePage:54 - User has clicke on Logout Button.

@@ -1,0 +1,6 @@
+com\orange\hrm\test\BaseTest.class
+com\orange\hrm\pages\LoginPage.class
+com\utility\ExcelUtility.class
+com\orange\hrm\test\LoginTest.class
+com\orange\hrm\test\HomePageTest.class
+com\orange\hrm\pages\HomePage.class
