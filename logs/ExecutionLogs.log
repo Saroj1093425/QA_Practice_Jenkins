@@ -8,3 +8,8 @@
 22.07.2024 10:32:49,664 INFO  LoginPage:43 - User has clicked on Submit button
 22.07.2024 10:32:50,090 INFO  HomePage:52 - User has clicked on Profile Picture.
 22.07.2024 10:32:51,369 INFO  HomePage:54 - User has clicke on Logout Button.
+23.07.2024 09:42:21,414 INFO  LoginPage:37 - User has entered the Username.
+23.07.2024 09:42:21,462 INFO  LoginPage:40 - User has entered the Password.
+23.07.2024 09:42:22,939 INFO  LoginPage:43 - User has clicked on Submit button
+23.07.2024 09:42:23,332 INFO  HomePage:52 - User has clicked on Profile Picture.
+23.07.2024 09:42:24,367 INFO  HomePage:54 - User has clicke on Logout Button.

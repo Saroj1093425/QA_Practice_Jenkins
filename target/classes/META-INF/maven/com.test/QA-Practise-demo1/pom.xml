@@ -22,7 +22,7 @@
         <version>3.3.0</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>orangetestng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
